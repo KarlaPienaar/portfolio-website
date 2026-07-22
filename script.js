@@ -1,6 +1,6 @@
 // Typing effect
 
-const text = "Head of Marketing • Final-Year BSc IT Student";
+const text = "Client Relationship and Marketing Manager • Final-Year BSc IT Student";
 const typingElement = document.querySelector(".hero h2");
 
 let i = 0;
